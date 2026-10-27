@@ -2,6 +2,8 @@
 
 A single file wheel for live tournament matchup draws. No install, no server.
 
+![Preview](preview.png)
+
 ## Run it
 Double click `index.html` to open it in Chrome or Edge.
 
